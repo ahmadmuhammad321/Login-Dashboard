@@ -1,6 +1,6 @@
 # mylogin
 
-A Login Page and a dashboard made using Flutter for Android App
+A Login Page and a dashboard for an Android App made using Flutter Framework
 
 ## Getting Started
 
