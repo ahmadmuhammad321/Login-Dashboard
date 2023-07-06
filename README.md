@@ -2,8 +2,11 @@
 
 A Login Page and a dashboard for an Android App made using Flutter Framework
 
-##Screenshots
+## Screenshots
+
 [![Screenshot-20230706-194305.png](https://i.postimg.cc/4xPf3Fvn/Screenshot-20230706-194305.png)](https://postimg.cc/v41FqhNd)
+[![Screenshot-20230706-194313.png](https://i.postimg.cc/YCMFVZqS/Screenshot-20230706-194313.png)](https://postimg.cc/QHYVK67L)
+[![Screenshot-20230706-194336.png](https://i.postimg.cc/9XT5gNnK/Screenshot-20230706-194336.png)](https://postimg.cc/py26pkxJ)
 
 ## Getting Started
 
